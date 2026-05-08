@@ -12,7 +12,7 @@
 
 # 🚀 About Me
 
-I'm a passionate AI & Data Analytics professional with experience spanning **Business, Analytics, Research, and Intelligent Systems**.  
+I'm a passionate about bridging AI, Analytics & Business Strategy with experience spanning **Business, Analytics, Research, and Intelligent Systems**.  
 With experience across **Deloitte** and the **UZH Department of Finance**, I enjoy building solutions that combine **Machine Learning, Business Intelligence, and Real-world Impact**.
 
 Currently based in Switzerland 🇨🇭, I’m deeply interested in:
