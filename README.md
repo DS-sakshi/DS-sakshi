@@ -108,15 +108,6 @@ Currently based in Switzerland 🇨🇭, I’m deeply interested in:
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DS-sakshi&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS-sakshi&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
 # 🧠 Philosophy
 
 > “Building intelligent systems that create measurable business impact.”
